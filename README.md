@@ -8,7 +8,7 @@
 
 João Victor das Neves Sousa
 
-Gustavo Cavalcante
+Gustavo Cavalcante Sousa
 
 ## Setup
 
